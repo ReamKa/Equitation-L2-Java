@@ -12,6 +12,7 @@ Classe abstraite et méthode abstraite -> Statistiques
 Interface ->TerrainInterface 
 
 Classe avec un constructeur par copie ou clone() -> Cheval
+
 Définition de classe étendant Exception -> PlusDeChevauxQueJockeysException, PlusDeJockeyQueDeChevauxException, ChevalHorsTerrainException
 
 Gestion des exceptions : Très bien merci
